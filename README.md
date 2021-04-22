@@ -1,1 +1,1 @@
-# typescript-template
+# typescript-node-template
