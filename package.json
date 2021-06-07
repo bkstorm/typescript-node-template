@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/bkstorm/typescript-template#readme",
   "dependencies": {
+    "nodemon": "^2.0.7",
     "winston": "^3.3.3"
   },
   "devDependencies": {
